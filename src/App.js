@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import ApplicationIndex from './Components/Index';
 
 function App() {
   return (
     <div className="App">
-      <h1>My First App</h1>
-      <h2>Author:Giridhar S</h2>
+      <ApplicationIndex />
     </div>
   );
 }
